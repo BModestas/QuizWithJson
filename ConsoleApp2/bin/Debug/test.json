@@ -1,0 +1,23 @@
+[
+{
+	"id":1,
+    "fruit": "Apple",
+    "answerA": "Red",
+	"answerB": "Blue",
+	"correct_answer":1	
+},
+{
+	"id":2,
+    "fruit": "Banana",
+    "answerA": "Yellow",
+	"answerB": "Red",
+	"correct_answer":1
+},
+{
+	"id":3,
+    "fruit": "Orange",
+    "answerA": "Orange",
+	"answerB": "Red",
+	"correct_answer":1
+}
+]
